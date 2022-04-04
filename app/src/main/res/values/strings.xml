@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MemoPad</string>
+    <string name="new_memo">New Memo</string>
+    <string name="add_memo">add memo</string>
+    <string name="memo_to_delete">Memo # to Delete</string>
+    <string name="delete_memo">delete memo</string>
+
+
 </resources>
